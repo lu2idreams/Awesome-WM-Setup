@@ -140,4 +140,4 @@ ex ()
 
 
 # Prompt-Farben
- PS1='\[\e[0;1;32m\][\[\e[0;1;94m\]\u\[\e[0;1;93m\]@\[\e[0;1;95m\]\H \[\e[0;1;36m\]\w\[\e[0;1;32m\]]\[\e[0;1m\]$ \[\e[0m\]'
+PS1="\[$(tput bold)\]\[\033[38;5;13m\]\w\[$(tput sgr0)\] \[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;2m\]\\$\[$(tput sgr0)\] \[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;11m\]->\[$(tput sgr0)\] \[$(tput sgr0)\]"
