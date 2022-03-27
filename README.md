@@ -45,3 +45,11 @@ To set a wallpaper consistently, use nitrogen. The Setup uses largely default ke
 **Mod-R:** launch run-prompt (by default rofi)
 
 **Mod-Enter:** launch terminal (by default urxvt)
+
+**Mod-Space:** Toggle client between floating and tiling (**Mod-RMB** near a window corner to resize floating clients)
+
+**Mod-J/K:** Select window
+
+**Mod-H/L:** Resize master
+
+*Known issues:* Firefox sometimes refuses to tile appropriately, in most cases hitting **Mod-Space** in case it is set to floating, or **Mod-M** in case it is set to monocle get firefox to behave properly.
