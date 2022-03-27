@@ -16,12 +16,17 @@ Change into the folder you cloned in the first step, move the rc.lua into the "a
 
 ```
 cd Awesome-WM-Setup/
-
 mv rc.lua ~/.config/awesome/
-
 mv theme.lua /usr/share/awesome/themes/default/
 
 ```
+To get the gruvbox theme for the default terminal emulator (urxvt) as well, you should mode the .Xresources file into your home directory (you may need to remove any existing one first)
+
+```mv .Xresources ~/.Xresources```
+
+If you want to use the .bashrc as well, it also needs to be placed inside your home directory.
+
+```mv .bashrc ~/.bashrc```
 
 Next, if you want to use the volume and battery widget, you will need to install streetturtle's (https://github.com/streetturtle/) awesomewm widgets. To do so, you need to clone the repo inside your .config/awesome/ directory:
 
@@ -35,7 +40,6 @@ Lastly, I recommend aprilove's (https://github.com/aprilove/) collection of gruv
 
 ```
 cd ~/Pictures/
-
 git clone https://github.com/aprilove/Gruvbox-Wallpapers
 
 ```
