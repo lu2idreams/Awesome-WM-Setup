@@ -36,6 +36,8 @@ git clone https://github.com/streetturtle/awesome-wm-widgets
 
 ```
 
+For consistency with gtk elements, I recommend installing gruvbox icon and gtk themes, like this one by TheGreatMcPain: https://github.com/TheGreatMcPain/gruvbox-material-gtk. 
+
 Lastly, I recommend aprilove's (https://github.com/aprilove/) collection of gruvbox wallpapers for some nice wallpapers to go along with the setup. Clone them for example into your pictures folder:
 
 ```
