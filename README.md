@@ -1,10 +1,10 @@
 # AwesomeWM Setup
 
-Mostly for personal use. Fairly basic setup including a gruvbox theme, as well as volume, battery and network widget.
+Mostly for personal use. Fairly basic setup including a gruvbox theme, as well as volume, battery and network widget, with brightness and volume control.
 
 ## Installation
 
-First, install awesome, along with some of the default programs this build depends on: awesome, rofi, network-manager, nitrogen (for setting a wallpaper), urxvt/rxvt-unicode, vim, and lightdm (or some other display manager; not necessary, but recommended). The defaults may be changed later in .config/awesome/rc.lua. Afterwards, clone this repository using
+First, install awesome, along with some of the default programs this build depends on: awesome, rofi, network-manager, nitrogen (for setting a wallpaper), urxvt/rxvt-unicode, vim, xfce4-power-manager (for controlling brightness), and lightdm (or some other display manager; not necessary, but recommended). The defaults may be changed in .config/awesome/rc.lua. Afterwards, clone this repository using
 
 ```git clone https://github.com/lu2idreams/Awesome-WM-Setup/```
 
