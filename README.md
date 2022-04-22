@@ -2,7 +2,7 @@
 
 Mostly for personal use. Fairly basic setup including a gruvbox theme, as well as volume, battery and network widget, with brightness and volume control.
 
-![screenshot](https://user-images.githubusercontent.com/87900554/164672629-bc74403c-3a76-47d0-942f-4c3b408775dd.png)
+![screenshot](https://user-images.githubusercontent.com/87900554/164675021-235601ae-1705-465f-a363-1f1940bfcd17.png)
 
 ## Installation
 
