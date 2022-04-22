@@ -2,6 +2,10 @@ URxvt.font:     xft:bitstream vera sans mono:size=11:antialias=true
 URxvt.boldFont: xft:bitstream vera sans mono:bold:size=11:antialias=true
 URxvt.scrollBar: false
 
+! fake transparency
+urxvt*transparent: true
+urxvt*shading: 30
+
 ! hard contrast: *background: #1d2021
 *background: #32302f
 ! soft contrast: *background: #32302f
