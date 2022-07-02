@@ -1,6 +1,6 @@
 # AwesomeWM Setup
 
-Mostly for personal use. Fairly basic setup of AwesomeWM (https://github.com/awesomeWM/awesome) including a gruvbox theme, as well as volume, battery and network widget, with brightness and volume control. 
+Mostly for personal use. Fairly basic setup of [AwesomeWM](https://github.com/awesomeWM/awesome) including a gruvbox theme, as well as volume, battery and network widget, with brightness and volume control. 
 
 ![screenshot](https://user-images.githubusercontent.com/87900554/164675021-235601ae-1705-465f-a363-1f1940bfcd17.png)
 
